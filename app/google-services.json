@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773545494217",
+    "project_id": "game-cristao",
+    "storage_bucket": "game-cristao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773545494217:android:771d1913b662987db7af18",
+        "android_client_info": {
+          "package_name": "com.example.game_cristao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlm4C5UJLmgiKA1nYkr-M5j-dZQX0wac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
